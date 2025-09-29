@@ -93,6 +93,15 @@ include:
 exclude:
 ignore:
 
+# Search
+search:
+  path: search.json # Path to save the search database file
+  field: post # Apply to the whole site
+  limit: 1000 # Maximum number of posts to include in search index. 0 for no limit
+  content: true # Include post content in search index
+  format: html # Format of the content to index. Can be 'html' or 'markdown'
+  min_length: 2 # Minimum length of words to index
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
