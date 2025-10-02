@@ -1,7 +1,8 @@
 ---
 title: 'std::async、std::future'
 date: 2021-04-05 14:22:20
-tags:
+tags: [C++, Async Programming, Threading]
+excerpt: C++异步编程技术详解，包括std::async和std::future的使用方法、launch策略、future状态管理、promise和packaged_task等高级异步编程技巧。
 ---
 
 ## std::async 用法

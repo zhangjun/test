@@ -2,6 +2,7 @@
 title: Metal for Paddle Lite
 date: 2022-01-05 13:32:39
 tags:
+excerpt: Paddle Lite在Apple Metal上的实现技术，包括Metal内核和上下文设计、操作执行流程、GPU计算优化等移动端深度学习推理加速技术。
 ---
 # Metal for Paddle Lite
 ![image](https://user-images.githubusercontent.com/1312389/161764131-2e745999-bc96-4c92-9bb0-1e459bc46c95.png)

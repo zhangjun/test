@@ -2,6 +2,7 @@
 title: VPN service
 date: 2023-01-02 11:26:53
 tags:
+excerpt: VPS搭建VPN代理服务完整指南，包括免费域名申请、域名解析配置、V2ray/Trojan服务器搭建、CDN流量中转、客户端配置等详细步骤和参考资源。
 ---
 
 # 使用VPS搭建VPN代理

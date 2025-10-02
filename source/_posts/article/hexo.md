@@ -2,6 +2,7 @@
 title: hexo
 date: 2021-03-01 07:17:58
 tags:
+excerpt: Hexo静态博客框架使用指南，包括博客初始化、新建文章、自定义路径、后台管理等核心功能的使用方法和相关资源链接。
 ---
 # hexo
 # hexo init

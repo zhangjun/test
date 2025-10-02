@@ -2,6 +2,7 @@
 title: paddle inference
 date: 2021-03-16 03:32:13
 tags:
+excerpt: PaddlePaddle推理引擎深度解析，包括EngineBase基类设计、NaiveExecutor执行逻辑、Operator运行机制等核心代码实现和执行流程分析。
 ---
 paddle inference学习记录
 

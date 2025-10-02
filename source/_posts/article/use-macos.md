@@ -2,6 +2,7 @@
 title: macOS tips
 date: 2021-12-09 06:31:52
 tags:
+excerpt: macOS开发技巧和Python Framework加载方法，包括使用ctypes库加载Metal、CoreGraphics、MetalPerformanceShaders等系统框架的代码示例。
 ---
 
 # macOS python load Framework

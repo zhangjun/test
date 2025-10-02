@@ -1,7 +1,8 @@
 ---
 title: Paddle Lite framework
 date: 2021-09-19 14:13:58
-tags:
+tags: [Paddle Lite, Mobile AI, C++]
+excerpt: Paddle Lite移动端推理框架深度解析，包括KernelContext、OpLite、注册机制、Scope管理、优化器等核心模块的详细代码实现和架构设计。
 ---
 
 # core

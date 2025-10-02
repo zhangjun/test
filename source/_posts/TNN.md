@@ -1,7 +1,8 @@
 ---
 title: TNN
 date: 2021-03-06 07:17:58
-tags:
+tags: [TNN, Mobile AI, Tencent]
+excerpt: 介绍腾讯TNN深度学习推理框架的编译和使用方法。包括从GitHub下载源码、使用CMake在Linux x86平台编译配置，以及提供基础的模型部署示例代码。
 ---
 本文主要介绍Tencent TNN编译使用。
 

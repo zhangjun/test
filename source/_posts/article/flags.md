@@ -2,6 +2,7 @@
 title: gflags
 date: 2021-03-11 07:40:22
 tags:
+excerpt: Google gflags命令行参数解析库使用指南，包括flag定义、参数解析、命令行设置、默认值修改等核心功能的使用方法。
 ---
 主要介绍google gflags使用
 

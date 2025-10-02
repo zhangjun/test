@@ -2,6 +2,7 @@
 title: gcc
 date: 2021-04-14 03:51:57
 tags:
+excerpt: GCC编译器优化技术详解，包括RVO（返回值优化）、NRVO（命名返回值优化）等编译优化策略，以及相关C++代码示例和性能优化技巧。
 ---
 
 # content

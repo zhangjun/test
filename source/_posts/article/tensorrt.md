@@ -1,7 +1,8 @@
 ---
 title: TensorRT
 date: 2022-01-06 07:47:06
-tags: GPU, TensorRT
+tags: [TensorRT, Deep Learning, Inference]
+excerpt: NVIDIA TensorRT深度学习推理优化库完整指南，包括安装方法（容器、debian、pip）、基础工作流程、模型转换、部署方式，以及TensorRT API使用和优化技术。
 ---
 [TOC]
 # introduction

@@ -2,6 +2,7 @@
 title: daily note
 date: 2021-03-16 05:24:11
 tags:
+excerpt: 日常技术笔记集合，包含GPU代码资源、深度学习部署工具、GitHub使用技巧以及Arm Mali GPU架构详解。重点介绍了Mali GPU的Tripipe设计、内存系统和性能特征。
 ---
 
 ## gpu code

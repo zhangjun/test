@@ -2,6 +2,7 @@
 title: notes
 date: 2021-03-12 05:24:19
 tags:
+excerpt: 开发环境配置和优化技巧记录，包括ccache和distcc编译加速、CMake集成ccache、卷积计算参数、CentOS EPEL源配置等实用技术。
 ---
 一些记录
 

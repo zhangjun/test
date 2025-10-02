@@ -2,6 +2,7 @@
 title: conv
 date: 2021-04-10 11:04:13
 tags:
+excerpt: 卷积神经网络实现详解，包括Conv2D、Conv3D、Depthwise Conv的算法实现、im2col优化、GEMM计算、数据打包等核心技术和C++代码示例。
 ---
 
 conv详细介绍。

@@ -1,7 +1,8 @@
 ---
 title: OpenCL
 date: 2022-03-06 05:42:42
-tags:
+tags: [OpenCL, GPU, Parallel Computing]
+excerpt: OpenCL并行计算编程技术详解，包括平台模型、执行模型、存储器模型、API使用、性能优化策略等核心概念，以及Qualcomm Adreno GPU相关开发资源。
 ---
 
 ![opencl](https://pic2.zhimg.com/80/v2-a7526bdfdb0c6372745f272d6f315291_1440w.jpg)

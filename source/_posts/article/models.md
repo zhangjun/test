@@ -2,6 +2,7 @@
 title: models
 date: 2021-03-23 15:14:00
 tags:
+excerpt: 深度学习模型转换和部署技术，包括PaddlePaddle、NCNN、TNN等框架的使用方法，以及x2paddle、paddle2onnx等模型转换工具的使用指南。
 ---
 介绍paddle、ncnn、tnn使用
 

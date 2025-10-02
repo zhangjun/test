@@ -2,6 +2,7 @@
 title: docker
 date: 2021-12-09 06:33:23
 tags:
+excerpt: Docker容器化技术指南，包括Docker安装配置、Dockerfile编写、Ubuntu基础镜像构建，以及GCC、Python环境配置等开发环境搭建技巧。
 ---
 # docker build
 https://docs.docker.com/engine/reference/builder/

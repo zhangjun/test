@@ -2,6 +2,7 @@
 title: Metal Basic
 date: 2021-09-05 10:01:57
 tags:
+excerpt: Apple Metal图形编程基础，包括Metal Buffer和Texture的创建、CPU与GPU数据传输、Metal着色器编程等核心概念和Objective-C/Swift代码示例。
 ---
 # metal buffer anc texture
 ```

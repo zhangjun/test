@@ -2,6 +2,7 @@
 title: export paddle model
 date: 2022-05-31 13:53:32
 tags:
+excerpt: PaddlePaddle模型导出指南，以PaddleClas为例介绍如何下载预训练模型、使用export_model.py脚本导出模型，以及模型部署相关技术。
 ---
 
 # 导出模型

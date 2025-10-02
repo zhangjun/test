@@ -97,11 +97,11 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  about: /about/ || fa fa-user
-  # tags: /tags/ || fa fa-tags
+  tags: /tags/ || fa fa-tags
   # categories: /categories/ || fa fa-th
-  archives: /archives/ || fa fa-archive
+  # archives: /archives/ || fa fa-archive
   notes: https://zhangjun.github.io/notes || fa fa-book
+  about: /about/ || fa fa-user
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -123,7 +123,7 @@ sidebar:
 
   # Sidebar width.
   # Applicable to Muse | Mist and mobile of Pisces | Gemini.
-  width_expanded: 320
+  width_expanded: 240
   # Applicable to desktop of Pisces | Gemini.
   width_dual_column: 240
 
@@ -374,7 +374,7 @@ codeblock:
     dark: prism-dark
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Available values: default | flat | mac
     style:
   # Fold code block
@@ -389,7 +389,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
 # Reading progress bar
 reading_progress:
@@ -444,7 +444,7 @@ font:
   global:
     external: true
     family: Lato
-    size:
+    size: 0.8
 
   # Font settings for site title (.site-title).
   title:

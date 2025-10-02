@@ -2,6 +2,7 @@
 title: MacTex
 date: 2022-03-02 15:21:17
 tags:
+excerpt: LaTeX环境安装配置指南，包括macOS和Ubuntu系统下的MacTeX安装方法，以及相关的中文简历模板和LaTeX技巧资源链接。
 ---
 
 # install

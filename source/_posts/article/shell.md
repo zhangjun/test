@@ -2,6 +2,7 @@
 title: 常用命令
 date: 2021-03-11 08:50:47
 tags:
+excerpt: Linux常用命令集合，包括shell脚本中的字符串替换、文件搜索等实用命令，帮助提高日常开发效率。
 ---
 记录linux常用命令
 # shell
